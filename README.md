@@ -20,7 +20,7 @@ See [contribution guidelines](CONTRIBUTING.md).
 
 ## License
 
-See [license](LICENSE.md).
+See [license](LICENSE).
 
 ## Acknowledgments
 
